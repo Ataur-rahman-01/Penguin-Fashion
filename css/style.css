@@ -21,3 +21,11 @@ header {
   font-weight: 600;
   color: black;
 }
+.image-hight {
+  height: 200px;
+  width: 180px;
+  margin-left: 70px;
+}
+.box-hight {
+  height: 400px;
+}
