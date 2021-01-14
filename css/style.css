@@ -1,13 +1,23 @@
 header {
   background-color: rgba(255, 251, 240, 1);
-  margin-bottom: 100px;
 }
 .orange-word {
   color: orange;
 }
 .logo-size {
-  width: 200px;
+  width: 250px;
+  height: 50px;
 }
-.ladies-jacket {
+.jacket-photo {
   height: 500px;
+}
+.subscribe {
+  height: 300px;
+  background-color: #ea5e5d;
+  border-radius: 10px;
+}
+.back-bold {
+  font-size: 20px;
+  font-weight: 600;
+  color: black;
 }
